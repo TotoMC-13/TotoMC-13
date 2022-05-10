@@ -1,4 +1,5 @@
-* 🧠  I'm learning Python and Kotlin
+### About me
+* 🧠  I'm currently learning Python and Kotlin
 
 ### Skills
 
