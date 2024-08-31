@@ -1,5 +1,5 @@
 ### About me
-* 🧠  I'm currently learning Python and Kotlin
+* 🧠  Python and Kotlin
 
 ### Skills
 
