@@ -1,5 +1,5 @@
 ### About me
-* 🧠  Python and Kotlin
+* 🧠  Im studying computer science and I enjoy coding in my free time, most of my projects are private (at least by now).
 
 ### Skills
 
