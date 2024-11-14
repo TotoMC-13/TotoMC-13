@@ -1,5 +1,5 @@
 ### About me
-* 🧠  Im studying computer science and I enjoy coding in my free time, most of my projects are private (at least by now).
+* 🧠  I’m studying Computer Science and enjoy coding in my free time. Most of my projects are private, at least for now.
 
 ### Skills
 
