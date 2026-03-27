@@ -1,10 +1,9 @@
 ### About me
-Computer Science Student @ UBA.
-Building a custom MCU and its Assembly language (yamcufs).
+Computer Science Student @ UBA. <br>
+Building a custom MCU and its Assembly language (yamcufs). <br>
 Working on Mobile apps (Flutter/FastAPI), RayTracing engine and Neural Networks in Rust.
 
 ### Skills
-
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/960px-Rust_programming_language_black_logo.svg.png" width="36" height="36" alt="Rust" /></a>
@@ -22,7 +21,6 @@ Working on Mobile apps (Flutter/FastAPI), RayTracing engine and Neural Networks 
 </p>
 
 ### Socials
-
 <p align="left">
   <a href="https://discord.com/users/totomc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
   <a href="https://www.github.com/TotoMC-13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
