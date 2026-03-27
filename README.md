@@ -1,6 +1,7 @@
 ### About me
-* Computer Science Student.
-* Working on Mobile Dev and whatever I find interesting.
+Computer Science Student @ UBA.
+Building a custom MCU and its Assembly language (yamcufs).
+Working on Mobile apps (Flutter/FastAPI), RayTracing engine and Neural Networks in Rust.
 
 ### Skills
 
