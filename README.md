@@ -2,8 +2,8 @@
 <p>
   Computer Science Student @ UBA. <br>
   Building a <a href="https://github.com/TotoMC-13/rpi-rust-os/" target="_blank">custom Kernel (Bare Metal) for RaspberryPi 3</a> for RaspberryPi 3 with Rust<br>
-  Built a custom MCU and its Assembly language (<a href="https://github.com/TotoMC-13/yamcufs-16b" target="_blank">yamcufs</a>). <br>
-  Working on Mobile apps (Flutter/FastAPI), (<a href="https://github.com/TotoMC-13/barnacle-ray" targetr="_blank">RayTracing engine</a>) and  (<a href="https://github.com/TotoMC-13/rust-neural-network" targetr="_blank">Neural Networks in Rust</a>).
+  Built a custom MCU and its Assembly language <a href="https://github.com/TotoMC-13/yamcufs-16b" target="_blank">yamcufs</a>). <br>
+  Working on Mobile apps (Flutter/FastAPI), <a href="https://github.com/TotoMC-13/barnacle-ray" targetr="_blank">RayTracing engine</a> and  (<a href="https://github.com/TotoMC-13/rust-neural-network" targetr="_blank">Neural Networks in Rust</a>).
 </p>
 
 <h3>Skills</h3>
