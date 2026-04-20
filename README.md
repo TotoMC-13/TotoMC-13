@@ -1,6 +1,6 @@
 ### About me
 Computer Science Student @ UBA. <br>
-Building a custom MCU and its Assembly language (yamcufs). <br>
+Built a custom MCU and it's Assembly language (yamcufs). <br>
 Working on Mobile apps (Flutter/FastAPI), RayTracing engine and Neural Networks in Rust.
 
 ### Skills
